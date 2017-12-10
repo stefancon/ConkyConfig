@@ -1,7 +1,7 @@
 # ConkyConfig
 This is my configrc file. Maybe it contains syntax errors.
 
-https://imgur.com/a/kt7Jm
+![alt text](https://imgur.com/TpQwXJZ)
 
 Hope you like it
 
